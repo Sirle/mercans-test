@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mercans-test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="13.251">
+    <properties></properties>
+            <testcase
+                name="requestLeaveTest"
+                time="4.631"
+                classname="FrontEndTest">
+            </testcase>
+            <testcase
+                name="openLeavesPageTest"
+                time="1.349"
+                classname="FrontEndTest">
+            </testcase>
+            <testcase
+                name="loginTest"
+                time="7.271"
+                classname="FrontEndTest">
+            </testcase>
+</testsuite>

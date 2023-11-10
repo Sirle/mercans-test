@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name = "Front-end tests">
+    <test name = "Front-end test">
+        <classes>
+            <class name = "FrontEndTest"/>
+        </classes>
+    </test>
+</suite>
